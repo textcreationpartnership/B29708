@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The sheeps skin pull'd off from the wolf's back: or, The uncasing of the knight. Being a satyrical copy of verses on the abominable and treasonable practices of a pagan knight with a Christian name, now in the Tower.</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29708</idno><idno type="EEBO-CITATION">99889645</idno>
+  <idno type="VID">193096</idno>
+  <idno type="EEBO-PROQUEST">2240912303</idno>
+  
+            <idno type="OCLC"> 11249841</idno>
+            <idno type="STC">Wing S3056</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.9[833]</idno>
+            <idno type="STC">ESTC R30140</idno>
+            <idno type="PROQUEST">ocm99889645</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99889645e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29708)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 193096)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A6:1[498])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The sheeps skin pull'd off from the wolf's back: or, The uncasing of the knight. Being a satyrical copy of verses on the abominable and treasonable practices of a pagan knight with a Christian name, now in the Tower.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire, possibly on Sir William Waller. The Huntington Library copy has a MS. note identifying Sir Robert Peyton as the subject.</note>
+                  <note>Verse: "Of all the plots we ever yet have read,".</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Waller, William, --  Sir, d. 1699 --  Early works to 1800.</term>
+               <term type="personal_name">Peyton, Robert, --  Sir --  Early works to 1800.</term>
+               <term type="topical_term">Popish Plot, 1678 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:193096:1"/>
+            <head>The Sheeps Skin pull'd off from the Wolfs back: OR The Uncasing of the KNIGHT. BEING A SATYRICAL COPY of VERSES ON The abominable and treasonable Practices of a Pagan Knight with a Christian Name, now in the <hi>TOWER.</hi>
+            </head>
+            <l>OF all the Plots we ever yet have read,</l>
+            <l>That Jesuites hatch'd, or Hell it self has bred,</l>
+            <l>No one like this did ever yet appear,</l>
+            <l>Tho this, of Plots, has been a fruitful year.</l>
+            <l>The <hi>Pagan</hi> Knight, with <hi>Presbyterian</hi> Face,</l>
+            <l>Shall 'mongst the Chief of Plotters have the place;</l>
+            <l>And in Hells deep Consults, there's none shall dare,</l>
+            <l>If he be by, to step into the Chair.</l>
+            <l>The King of <hi>Spain,</hi> and his proud vaunting Elves,</l>
+            <l>Plotted our Ruine, but 'twas like themselves;</l>
+            <l>They came with Arms, with Halters, and with Knives,</l>
+            <l>To kill the Men; with Lust, t' abuse their Wives.</l>
+            <l>The Pope, good man, plotted with bloudy Knife,</l>
+            <l>To take <hi>Elizabeth</hi>'s Renowned Life;</l>
+            <l>With Curses, Dagger, Pistol, Poyson too,</l>
+            <l>He honestly did his Designes pursue.</l>
+            <l>The Jesuits, of Hells Privy-Council sworn,</l>
+            <l>And all the bald-pate Priests that e'er were shorn,</l>
+            <l>Plotted at once to blow into the Air</l>
+            <l>The King, his Issue, Commons, every Peer;</l>
+            <l>And (like the Tyrant, who but wish'd it) so</l>
+            <l>To cut a Kingdoms Head off at one Blow.</l>
+            <l>Those Holy Fathers, with their Secretary,</l>
+            <l>Who with their Plots, at <hi>Tyburn</hi> did miscarry,</l>
+            <l>Plotted to take our Soveraigns sacred Life</l>
+            <l>By Pistol, or by Poyson, Sword, or Knife;</l>
+            <l>Then to enslave the free Necks of a Nation,</l>
+            <l>And to bring in a Popish Reformation:</l>
+            <pb n="2" facs="tcp:193096:2"/>
+            <l>Yet these come short of what this Knight would do,</l>
+            <l>Who did more devilish Plots than these pursue;</l>
+            <l>For all their Plots this Knight had made his own,</l>
+            <l>And them upon the <hi>Protestants</hi> had thrown.</l>
+            <l>Thus, like a Wolf cloath'd in a white Sheeps Case,</l>
+            <l>The Knight appears with Presbyterian Face;</l>
+            <l>With them he clubs, and hears them preach and pray,</l>
+            <l>The better onely that he might betray:</l>
+            <l>For every night the Knight is brought to bed,</l>
+            <l>Of all the Treacherous Issue of his head,</l>
+            <l>By Mother Midnight, who the impious Brood</l>
+            <l>Did into nursing Jesuits hands intrude.</l>
+            <l>Hell such a pile of Villany ne'er rear'd,</l>
+            <l>And such a Plot as this was never heard,</l>
+            <l>To clear the Guilty (which the Devil ne'er meant)</l>
+            <l>And to accuse and damn the Innocent;</l>
+            <l>To hang up <hi>Dugdale, Bedloe, Smith,</hi> and <hi>Oates,</hi>
+            </l>
+            <l>And to make Protestants cut Protestants Throats;</l>
+            <l>To swear good Patriots honest Lives away,</l>
+            <l>A List of which hidden in Meal-tub lay:</l>
+            <l>To bring Fire, Sword, War, Dread, and Devastation,</l>
+            <l>And to defile, with innocent bloud, a Nation;</l>
+            <l>And then to set up th' Image of the Beast,</l>
+            <l>To which all men must bow, or b'hang'd at least.</l>
+            <l>But now the Wolf has lost his outward Case,</l>
+            <l>And he appears with his own wolfish Face;</l>
+            <l>His Popish Claws and bloudy Fangs are shown,</l>
+            <l>The counterfeit Sheep for a meer Wolf is known;</l>
+            <l>And in the <hi>Tower</hi> secur'd; he now between</l>
+            <l>The Lions, Monsters, and worse Beasts is seen.</l>
+            <l>Tho with a learn'd Astrologer, the Fate</l>
+            <l>Of Kings and Kingdoms he did oft debate;</l>
+            <l>And tho the Stars had others Fates made known,</l>
+            <l>He never in those Books could read his own.</l>
+            <l>But sometimes Poets, who are <hi>Vates</hi> too,</l>
+            <l>Can tell as much as <hi>Gadbury</hi> can do;</l>
+            <l>And they declare, the wolfish Knight will be,</l>
+            <l>With several other Traytors, such as he,</l>
+            <l>Who for such Practices in Holds are pent,</l>
+            <l>Like wicked Vermine hang'd, next Parliament.</l>
+            <pb facs="tcp:193096:2"/>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
